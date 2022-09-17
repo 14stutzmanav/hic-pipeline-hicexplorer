@@ -1,0 +1,17 @@
+htsfFile,baseName,techName,fastqName,readNum
+/proj/mckaylab/users/astutzman/aa_RawData/AS1-21_HtsfFastq/Wing-HiC-Rep1_R1.fastq.gz,yw-3LW-wing-HiC,yw-3LW-wing-HiC_rep1,yw-3LW-wing-HiC_rep1_R1,R1
+/proj/mckaylab/users/astutzman/aa_RawData/AS1-21_HtsfFastq/Wing-HiC-Rep1_R2.fastq.gz,yw-3LW-wing-HiC,yw-3LW-wing-HiC_rep1,yw-3LW-wing-HiC_rep1_R2,R2
+/proj/mckaylab/users/astutzman/aa_RawData/AS1-21_HtsfFastq/Leg-HiC-Rep1_R1.fastq.gz,yw-3LW-leg-HiC,yw-3LW-leg-HiC_rep1,yw-3LW-leg-HiC_rep1_R1,R1
+/proj/mckaylab/users/astutzman/aa_RawData/AS1-21_HtsfFastq/Leg-HiC-Rep1_R2.fastq.gz,yw-3LW-leg-HiC,yw-3LW-leg-HiC_rep1,yw-3LW-leg-HiC_rep1_R2,R2
+/proj/mckaylab/Novogene_Sequencing/AS1-44_NovogeneFastq/named-fastq-files/AS1-36_hic_yw_3LW_wing_rep2_R1.fastq.gz,yw-3LW-wing-HiC,yw-3LW-wing-HiC_rep2,yw-3LW-wing-HiC_rep2_R1,R1
+/proj/mckaylab/Novogene_Sequencing/AS1-44_NovogeneFastq/named-fastq-files/AS1-36_hic_yw_3LW_wing_rep2_R2.fastq.gz,yw-3LW-wing-HiC,yw-3LW-wing-HiC_rep2,yw-3LW-wing-HiC_rep2_R2,R2
+/proj/mckaylab/Novogene_Sequencing/AS1-44_NovogeneFastq/named-fastq-files/AS1-36_hic_yw_3LW_leg_rep2_R1.fastq.gz,yw-3LW-leg-HiC,yw-3LW-leg-HiC_rep2,yw-3LW-leg-HiC_rep2_R1,R1
+/proj/mckaylab/Novogene_Sequencing/AS1-44_NovogeneFastq/named-fastq-files/AS1-36_hic_yw_3LW_leg_rep2_R2.fastq.gz,yw-3LW-leg-HiC,yw-3LW-leg-HiC_rep2,yw-3LW-leg-HiC_rep2_R2,R2
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS01_C1-AS1-71-HWT-HiC-rep4_ATTACTCG-CCTATCCT_S24_L006_R1_001.fastq.gz,hwt-3LW-wing-HiC,hwt-3LW-wing-HiC_rep4,hwt-3LW-wing-HiC_rep4_R1,R1
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS01_C1-AS1-71-HWT-HiC-rep4_ATTACTCG-CCTATCCT_S24_L006_R2_001.fastq.gz,hwt-3LW-wing-HiC,hwt-3LW-wing-HiC_rep4,hwt-3LW-wing-HiC_rep4_R2,R2
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS02_E1-AS1-73-HWT-HiC-rep5_ATTACTCG-AGGCGAAG_S22_L005_R1_001.fastq.gz,hwt-3LW-wing-HiC,hwt-3LW-wing-HiC_rep5,hwt-3LW-wing-HiC_rep5_R1,R1
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS02_E1-AS1-73-HWT-HiC-rep5_ATTACTCG-AGGCGAAG_S22_L005_R2_001.fastq.gz,hwt-3LW-wing-HiC,hwt-3LW-wing-HiC_rep5,hwt-3LW-wing-HiC_rep5_R2,R2
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS01_D2-AS1-71-K9R-HiC-rep4_TCCGGAGA-GGCTCTGA_S25_L006_R1_001.fastq.gz,k9r-3LW-wing-HiC,k9r-3LW-wing-HiC_rep4,k9r-3LW-wing-HiC_rep4_R1,R1
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS01_D2-AS1-71-K9R-HiC-rep4_TCCGGAGA-GGCTCTGA_S25_L006_R2_001.fastq.gz,k9r-3LW-wing-HiC,k9r-3LW-wing-HiC_rep4,k9r-3LW-wing-HiC_rep4_R2,R2
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS02_F2-AS1-73-K9R-HiC-rep5_TCCGGAGA-TAATCTTA_S23_L005_R1_001.fastq.gz,k9r-3LW-wing-HiC,k9r-3LW-wing-HiC_rep5,k9r-3LW-wing-HiC_rep5_R1,R1
+/proj/mckaylab/HTSF/210318_UNC32-K00270_0277_AHKNTVBBXY/AVS02_F2-AS1-73-K9R-HiC-rep5_TCCGGAGA-TAATCTTA_S23_L005_R2_001.fastq.gz,k9r-3LW-wing-HiC,k9r-3LW-wing-HiC_rep5,k9r-3LW-wing-HiC_rep5_R2,R2

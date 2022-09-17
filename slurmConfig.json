@@ -1,0 +1,31 @@
+{
+	"__default__" :
+	{
+		"account" : "rc_dmckay1_pi",
+		"time" : "2:00:00",
+		"threads" : "1",
+		"mem" : "8G"
+	},
+
+	"coolerMapping" :
+	{
+		"time": "35:00:00",
+		"threads": "8",
+		"mem": "64G"
+	},
+
+	"hiceMapping" :
+	{
+		"time": "20:00:00",
+		"mem": "64G",
+		"threads": "8"
+	},
+
+	"hiceBuildingMatrix":
+	{
+		"time": "7:00:00",
+		"mem": "25G"
+	}
+}	
+
+

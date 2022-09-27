@@ -1,0 +1,9 @@
+htsfFile,baseName,techName,fastqName,readNum
+/proj/dowenlab/users/astutzman/aa_RawData/hp1a2-3LW-wing-HiC-merge_R1.fastq.gz,hp1a2-3LW-wing-HiC,hp1a2-3LW-wing-HiC-merge,hp1a2-3LW-wing-HiC-merge_R1,R1
+/proj/dowenlab/users/astutzman/aa_RawData/hp1a2-3LW-wing-HiC-merge_R2.fastq.gz,hp1a2-3LW-wing-HiC,hp1a2-3LW-wing-HiC-merge,hp1a2-3LW-wing-HiC-merge_R2,R2
+/proj/dowenlab/users/astutzman/aa_RawData/hwt-3LW-wing-HiC-merge_R1.fastq.gz,hwt-3LW-wing-HiC,hwt-3LW-wing-HiC-merge,hwt-3LW-wing-HiC-merge_R1,R1
+/proj/dowenlab/users/astutzman/aa_RawData/hwt-3LW-wing-HiC-merge_R2.fastq.gz,hwt-3LW-wing-HiC,hwt-3LW-wing-HiC-merge,hwt-3LW-wing-HiC-merge_R2,R2
+/proj/dowenlab/users/astutzman/aa_RawData/k9r-3LW-wing-HiC-merge_R1.fastq.gz,k9r-3LW-wing-HiC,k9r-3LW-wing-HiC-merge,k9r-3LW-wing-HiC-merge_R1,R1
+/proj/dowenlab/users/astutzman/aa_RawData/k9r-3LW-wing-HiC-merge_R2.fastq.gz,k9r-3LW-wing-HiC,k9r-3LW-wing-HiC-merge,k9r-3LW-wing-HiC-merge_R2,R2
+/proj/dowenlab/users/astutzman/aa_RawData/ywdf-3LW-wing-HiC-merge_R1.fastq.gz,ywdf-3LW-wing-HiC,ywdf-3LW-wing-HiC-merge,ywdf-3LW-wing-HiC-merge_R1,R1
+/proj/dowenlab/users/astutzman/aa_RawData/ywdf-3LW-wing-HiC-merge_R2.fastq.gz,ywdf-3LW-wing-HiC,ywdf-3LW-wing-HiC-merge,ywdf-3LW-wing-HiC-merge_R2,R2
